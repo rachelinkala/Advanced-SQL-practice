@@ -10,6 +10,7 @@ import ProtectedRoute from './ProtectedRoute';
 import AuthRoute from './AuthRoute';
 import FetchUser from './FetchUser';
 import Available from './Available';
+import Cities from './Cities'
 
 class App extends Component {
   render() {
